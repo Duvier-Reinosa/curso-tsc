@@ -15,6 +15,6 @@ getUsernameById('10');
 
 //tipos laterales
 //100x100, 500x500, 1000x1000
-type SquareSize = '100x100' | '500x500' | '1000x1000';
-//let smallPicture: SquareSize = '200x200'; error
-let smallPicture: SquareSize = '100x100';
+// type SquareSize = '100x100' | '500x500' | '1000x1000';
+// //let smallPicture: SquareSize = '200x200'; error
+// let smallPicture: SquareSize = '100x100';
